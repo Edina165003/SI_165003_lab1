@@ -7,6 +7,7 @@ void printMyName () {
 }
 
 void printMyIndex () {
+cout<<"165003"<<endl;
 	//TODO
 }
 
