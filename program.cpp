@@ -11,5 +11,8 @@ void printMyIndex () {
 }
 
 int main () {
+
+printMyname();
+printMyIndex();
 	//TODO
 }
